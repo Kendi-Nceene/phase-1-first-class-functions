@@ -1,5 +1,4 @@
-
-  function receivesAFunction(callback) {
+function receivesAFunction(callback) {
     return callback();
 }
 
